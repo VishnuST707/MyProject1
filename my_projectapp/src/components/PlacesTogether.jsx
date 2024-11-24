@@ -11,7 +11,7 @@ function PlacesTogether() {
         fluid
         className="places-container"
         style={{
-          backgroundImage: 'url("/images/travel.jpg")',
+          backgroundImage: 'url("https://cdn.pixabay.com/photo/2020/05/10/09/54/galaxy-5153226_1280.jpg")',
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "300px", 

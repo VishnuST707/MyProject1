@@ -4,9 +4,9 @@ import { Container, Row, Col, Card, Button } from "react-bootstrap";
 function TravelSection() {
  
   const places = [
-    { name: "Paris", price: "$499", image: "/images/paris1.jpg" },
-    { name: "London", price: "$599", image: "/images/london.jpg" },
-    { name: "Rome", price: "$549", image: "/images/rome.jpg" },
+    { name: "Paris", price: "$499", image: "https://cdn.pixabay.com/photo/2024/05/12/11/49/paris-8756718_960_720.jpg" },
+    { name: "London", price: "$599", image: "https://cdn.pixabay.com/photo/2018/01/12/11/55/london-3078109_960_720.jpg" },
+    { name: "Rome", price: "$549", image: "https://cdn.pixabay.com/photo/2019/10/06/08/57/tiber-river-4529605_1280.jpg" },
   ];
 
   return (

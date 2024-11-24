@@ -4,7 +4,7 @@ import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 function HeroSection() {
   return (
     <>
-    <div className="hero-section text-white text-start" style={{ backgroundImage: 'url("/images/aircraft.jpg")', backgroundSize: 'cover', padding: '200px 0' }}>
+    <div className="hero-section text-white text-start" style={{ backgroundImage: 'url("https://cdn.pixabay.com/photo/2024/01/10/02/07/ai-generated-8498715_960_720.jpg")', backgroundSize: 'cover', padding: '200px 0' }}>
         <Container >
         <h1 style={{color:"black"}}>Make your travel </h1>
         <h1 style={{color:"black"}}>wishlist, we'll do the rest</h1>
